@@ -1,1 +1,1 @@
-~/Scripts/* linguist-vendored
+*.js linguist-language=C#
