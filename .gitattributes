@@ -1,5 +1,3 @@
-Script/* linguist-vendored
-
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
@@ -63,3 +61,6 @@ Script/* linguist-vendored
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+~/Scripts linguist-vendored
+
