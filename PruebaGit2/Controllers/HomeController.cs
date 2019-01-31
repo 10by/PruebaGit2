@@ -8,6 +8,7 @@ namespace PruebaGit2.Controllers
 {
 
     //comentario PruebaBranch
+    //Rama2
     public class HomeController : Controller
     {
         public ActionResult Index()
